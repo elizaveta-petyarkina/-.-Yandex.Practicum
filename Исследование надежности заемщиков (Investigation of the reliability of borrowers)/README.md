@@ -14,6 +14,6 @@
 
 ## Библиотеки 
 
-`Python` `Pandas` `Matplotlib`
+`Python` `Pandas` 
 
 <br>
